@@ -1,3 +1,17 @@
+@media only screen and (max-width:1491px ) {
+	.daoy{
+		display: none;
+	}
+	.e{
+		display: none;
+	}
+	
+}
+.layui-fluid {
+    position: relative;
+    margin: 0 auto;
+    padding: 0 0!important;
+}
 .daoz{	
     text-align: center;
     margin-top: 5px;
@@ -37,8 +51,7 @@
 	}
 .yin{
 	width: 80%;
-	padding-top: 70px;
-	
+	padding-top: 70px;	
 }
 .yin h2{
 	display: block;
@@ -47,10 +60,11 @@
 	
 }
 .a{
-	width: 80%;height: 850px;background: #E8E8E8;margin: 0 auto;
+	width:100%;
+	height: 850px;
+	background: #E8E8E8;
 	margin-top: 45px;
-	
-}
+	  }
 .a p{
 	font-size: 20px;
 	color: #888888;
@@ -74,11 +88,7 @@
 	margin-left: 50px;
 	
 }
-.b img{
-	width: 350px;
-	height:350px;
-	
-}
+
 .b p{
 	padding-top: 15px;
 }
@@ -91,19 +101,41 @@
 	
 }
 .f{
-	width: 350px;
-	height: 200px;
+	width: 80%;
+	
 	background: #E6E6E6;
 	margin: 0 auto;
 	float: left;
 	margin-left: 50px;
 	text-align: center;
 }
-.f img{
-	width: 350px;
-	height:150px;
-	
-}
+
 .f p{
 	padding-top: 15px;
+}
+.p{
+	width: 1200px;
+	margin: auto;
+	padding-top: 30px;
+	
+}
+.p h2{
+	margin-left: 30px;
+	margin-top: -25px;
+}
+.g {
+   text-align: center;
+    color: white;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.g ul {
+    display:inline-block;
+}
+.g li {
+    float:left;
+    margin-top: 20px;
+}
+.g li + li {
+    margin-left:30px;
 }
