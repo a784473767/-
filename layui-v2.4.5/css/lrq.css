@@ -2,11 +2,12 @@
 	.daoy{
 		display: none;
 	}
-	.e{
+	.h{
 		display: none;
 	}
-	
-}
+	.navbar {
+		display: none;
+	}
 .layui-fluid {
     position: relative;
     margin: 0 auto;
